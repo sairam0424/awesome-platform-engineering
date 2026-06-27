@@ -53,6 +53,7 @@ A curated list of tools and resources for Platform Engineering.
 - [Design Tokens Figma plugin- export Figma styles and custom tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens)
 
 ## Tooling— Feature flags, environments and change management
+- [Tombstone](https://github.com/sairam0424/Tombstone) - Self-hosted feature flag platform with blast-radius gating, circuit-breaker auto-rollback, and causal incident correlation for production-scale flag inventory. Go + Python + TypeScript. MIT.
 - [ConfigCat - Privacy-first feature flag service](https://configcat.com/)
 - [OpenFeature - community-developed specification to standardise feature flag management](https://github.com/open-feature#welcome-to-the-openfeature-project-)
 - [Launchdarkly- feature flags paid service](https://launchdarkly.com/)
